@@ -104,7 +104,7 @@ The dashboard empowers business managers with clear, actionable insights for boo
 
 - **Peak Sales Month:** July ($95M)
 
--**Top Product:** Men’s Street Footwear ($209M)
+- **Top Product:** Men’s Street Footwear ($209M)
 
 - **Top Retailer:** West Gear ($243M)
 
