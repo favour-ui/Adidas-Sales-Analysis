@@ -57,7 +57,7 @@ The dashboard empowers business managers with clear, actionable insights for boo
 
 - Units sold, price, revenue, profit
 
-**2. Data Format:** CSV
+**2. Data Format:** The primary data set used for this analysis is the "Adidas_sales.csv"file,containg detailed information about each Bike sales made by the company
 
 **3. Preprocessed:** using Excel before importing into Power BI
 
@@ -67,6 +67,8 @@ The dashboard empowers business managers with clear, actionable insights for boo
 - **Power BI –** Dashboard development and DAX calculations
 
 - **Power Query –** Data transformation and model creation
+  
+- **DAX -** Perform advanced calculations
 
 ### 🔄Process Workflow
 **1. Data Cleaning**
